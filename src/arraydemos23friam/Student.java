@@ -4,6 +4,8 @@ package arraydemos23friam;
 
 public class Student {
     //comment added at 9:27AM
+    //Friday
+    //Comment added
     private String sId;
     private String sName;
     private String address;
