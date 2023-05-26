@@ -6,9 +6,9 @@ public class Student {
     //comment added at 9:27AM
     //Friday
     //Comment added
-    // commment for fetch and merge
-    //comment 1
-    //comment 2
+    //Commment for fetch and merge
+    //Comment 1
+    //Comment 2
     private String sId;
     private String sName;
     private String address;
